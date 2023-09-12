@@ -1,7 +1,42 @@
+a {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 50px;
+}
+
 h1 {
-    text-align: center
+    font-family: 'Alegreya Sans SC', sans-serif; 
+    font-size: 32pt;
+    font-weight: 500;
+    line-height: 0.5;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: 'Alegreya Sans SC', sans-serif; 
+    font-size: 28pt;
+    line-height: 0.25;
+    font-weight: 400;
+    margin-left: 25px;
+}
+
+img {
+    border: 2px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vw;
+}
+
+
+#Intro h1 {
+    font-size: 46pt;
+    text-align: center;
+    text-decoration: none;
 }
 
 #Intro h2 {
-    text-align: center
+    font-size: 18pt;
+    text-align: center;
 }
