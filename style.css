@@ -44,3 +44,7 @@ img {
 #Portfolio {
     min-height: 80vh;
 }
+
+.personal_image {
+    width: 20vw;
+}
