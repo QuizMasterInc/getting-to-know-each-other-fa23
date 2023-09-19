@@ -40,3 +40,7 @@ img {
     font-size: 18pt;
     text-align: center;
 }
+
+#Portfolio {
+    min-height: 80vh;
+}
