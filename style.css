@@ -54,10 +54,14 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center; 
+    margin: 0 40px;
 }
 
 .personal_image {
     width: 20vw;
+    height: 30vh;
+    border-radius: 50px;
+    margin-bottom: 20px;
 }
 
 .groupimg {
