@@ -39,6 +39,7 @@ img {
 
 .Portfolio {
     min-height: 80vh;
+    text-align: center;
 }
 
 .Members {
@@ -72,4 +73,6 @@ img {
     border: 2px solid black;
     margin-top: 20px;
     border-radius: 20px;
+    height: 600px;
+    width: 800px;
 }
