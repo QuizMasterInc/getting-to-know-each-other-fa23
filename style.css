@@ -8,6 +8,10 @@ a {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+a:hover {
+    color: grey;
+}
+
 h1 {
     font-family: 'Alegreya Sans SC', sans-serif; 
     font-size: 32pt;
