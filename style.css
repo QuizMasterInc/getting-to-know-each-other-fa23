@@ -31,11 +31,6 @@ h2 {
     flex-direction: column;
     align-items: center;
 }
-img {
-    border: 2px solid black;
-    display: block;
-    width: 50vw;
-}
 
 .Portfolio {
     min-height: 80vh;
@@ -46,6 +41,9 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+.Members h2 {
+    font-size: 22pt;
 }
 .Members-Data {
     display: flex;
@@ -60,8 +58,7 @@ img {
 }
 
 .personal_image {
-    width: 20vw;
-    height: 30vh;
+    width: 25vw;
     border-radius: 50px;
     margin-bottom: 20px;
     display: block;
